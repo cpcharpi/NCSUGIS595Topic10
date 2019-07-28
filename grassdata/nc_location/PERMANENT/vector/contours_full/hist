@@ -1,0 +1,3 @@
+COMMAND: r.contour --overwrite -t input="ground_smooth" output="contours_full" step=8 cut=200
+GISDBASE: /data/grassdata
+LOCATION: nc_location MAPSET: PERMANENT USER: grass DATE: Sat Jul 27 19:39:24 2019

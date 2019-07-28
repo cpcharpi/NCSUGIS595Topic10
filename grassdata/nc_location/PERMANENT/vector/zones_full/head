@@ -1,0 +1,10 @@
+ORGANIZATION: 
+DIGIT DATE:   
+DIGIT NAME:   vpetras
+MAP NAME:     Selected zones in the study area
+MAP DATE:     Tue Oct  4 21:54:17 2016
+MAP SCALE:    1
+OTHER INFO:   v.out.ascii input=zones layer=-1 type=boundary,centroid format=standard precision=2 | sed 's/\s*$//g'
+PROJ:         99
+ZONE:         0
+MAP THRESH:   0.000000

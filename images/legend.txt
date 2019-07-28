@@ -1,0 +1,6 @@
+1|legend/line|5|ps|#4477AA|#4477AA|3|line|1
+2|legend/line|5|ps|#66CCEE|#66CCEE|3|line|1
+3|legend/line|5|ps|#228833|#228833|3|line|1
+4|legend/line|5|ps|#CCBB44|#CCBB44|3|line|1
+5|legend/line|5|ps|#EE6677|#EE6677|3|line|1
+6|legend/line|5|ps|#AA3377|#AA3377|3|line|1

@@ -1,0 +1,7 @@
+COMMAND: r.contour --overwrite -t input="ground_smooth" output="contours_full" step=8 cut=200
+GISDBASE: /data/grassdata
+LOCATION: nc_location MAPSET: PERMANENT USER: grass DATE: Sat Jul 27 19:39:24 2019
+---------------------------------------------------------------------------------
+COMMAND: v.generalize --overwrite input="contours_full" layer="-1" type="line,boundary,area" output="contours" method="boyle" threshold=500 look_ahead=7 reduction=50 slide=0.5 angle_thresh=3 degree_thresh=0 closeness_thresh=0 betweeness_thresh=0 alpha=1.0 beta=1.0 iterations=1
+GISDBASE: /data/grassdata
+LOCATION: nc_location MAPSET: PERMANENT USER: grass DATE: Sat Jul 27 19:39:25 2019

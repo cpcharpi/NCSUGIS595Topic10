@@ -1,0 +1,3 @@
+COMMAND: v.in.region output="region" type="area" cat=1
+GISDBASE: /data/grassdata
+LOCATION: nc_location MAPSET: PERMANENT USER: grass DATE: Sat Jul 27 19:26:37 2019

@@ -1,0 +1,2 @@
+zones|legend/area|50|lf|red|none|8|line|1
+profile|legend/line|50|ps|#00AED1|none|8|line|1

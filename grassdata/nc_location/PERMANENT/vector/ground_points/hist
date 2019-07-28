@@ -1,0 +1,3 @@
+COMMAND: r.to.vect -z -b -t input="ground_bin" output="ground_points" type="point" column="value"
+GISDBASE: /data/grassdata
+LOCATION: nc_location MAPSET: PERMANENT USER: grass DATE: Sat Jul 27 19:26:39 2019
